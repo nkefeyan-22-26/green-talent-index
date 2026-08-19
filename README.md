@@ -74,7 +74,7 @@ Full results for all 195 candidates: [`outputs/feeder_index.csv`](outputs/feeder
 
 ## The methodological contribution
 
-Two choices distinguish this from a generic occupational-similarity measure. Both are deliberate and both are arguable — they are the part worth defending.
+Two choices distinguish this from a generic occupational-similarity measure.
 
 ### 1. Weight by what the *target* job needs, not by what the two jobs share
 
