@@ -1,6 +1,6 @@
 # Green-Transition Talent Feeder Index
 
-**If building electrification and EV charging are constrained by the supply of electricians, which occupations are the most realistic pools to retrain *from* — and what exactly would each one need to learn?**
+**If building electrification and EV charging are constrained by the supply of electricians, which occupations are the most realistic pools to retrain *from*, and what exactly would each one need to learn?**
 
 This repo builds a measure that answers both halves of that question from public data, and ranks every US occupation as a potential feeder into the electrical trade.
 
