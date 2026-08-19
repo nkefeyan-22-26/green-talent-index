@@ -113,9 +113,9 @@ Every judgment call is a named constant in the first 40 lines of [`build_index.p
 
 ---
 
-## Honest limitations
+## Limitations
 
-This is a two-hour build. It is a demonstration of a method, not a finished labor-market study.
+This is a demonstration of a method, not a finished labor-market study.
 
 - **No projections.** The full design filters to occupations with flat or declining projected growth — workers with a *reason* to move. That's the third leg and it isn't here yet; the current filters find who *could* move, not who *would*.
 - **National only.** Electrician demand is intensely local. State-level OES data is the obvious next cut, and it's the same script with a different input file.
