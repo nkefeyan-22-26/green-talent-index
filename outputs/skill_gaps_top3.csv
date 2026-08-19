@@ -1,0 +1,25 @@
+feeder,element_id,gap,importance,weight,target_level,feeder_level,priority,element,domain
+Firefighters,2.B.3.d,3.25,3.25,3.25,3.75,0.5,10.5625,Installation,Skills
+Firefighters,2.B.3.k,1.38,4.0,4.0,4.0,2.62,5.52,Troubleshooting,Skills
+Firefighters,2.B.3.l,1.5,3.5,3.5,3.75,2.25,5.25,Repairing,Skills
+Firefighters,4.A.3.b.5,1.2599999999999998,3.49,3.49,4.14,2.88,4.397399999999999,Repairing and Maintaining Electronic Equipment,Work Activities
+Firefighters,4.A.3.b.2,1.2400000000000002,3.48,3.48,3.54,2.3,4.315200000000001,"Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",Work Activities
+Firefighters,2.C.3.c,1.1599999999999997,3.32,3.32,3.86,2.7,3.8511999999999986,Design,Knowledge
+Firefighters,2.B.3.m,1.13,3.25,3.25,3.88,2.75,3.6724999999999994,Quality Control Analysis,Skills
+Firefighters,4.A.2.b.6,0.5299999999999994,4.5,4.5,5.06,4.53,2.384999999999997,"Organizing, Planning, and Prioritizing Work",Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.2.b.6,1.4399999999999995,4.5,4.5,5.06,3.62,6.479999999999998,"Organizing, Planning, and Prioritizing Work",Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.3.a.1,1.3200000000000003,4.71,4.71,5.86,4.54,6.217200000000001,Performing General Physical Activities,Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.4.a.2,1.2999999999999998,4.63,4.63,4.56,3.26,6.018999999999999,"Communicating with Supervisors, Peers, or Subordinates",Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.4.b.4,1.52,3.75,3.75,3.99,2.47,5.7,"Guiding, Directing, and Motivating Subordinates",Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.4.a.7,1.2300000000000004,3.37,3.37,4.07,2.84,4.145100000000002,Resolving Conflicts and Negotiating with Others,Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.4.c.3,1.13,3.52,3.52,3.56,2.43,3.9776,Monitoring and Controlling Resources,Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.4.b.3,0.8599999999999999,3.91,3.91,3.94,3.08,3.3625999999999996,Training and Teaching Others,Work Activities
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",4.A.3.a.2,0.7600000000000007,4.28,4.28,5.98,5.22,3.2528000000000032,Handling and Moving Objects,Work Activities
+Carpenters,2.B.3.k,1.88,4.0,4.0,4.0,2.12,7.52,Troubleshooting,Skills
+Carpenters,4.A.3.b.5,2.01,3.49,3.49,4.14,2.13,7.0149,Repairing and Maintaining Electronic Equipment,Work Activities
+Carpenters,2.B.3.d,2.0,3.25,3.25,3.75,1.75,6.5,Installation,Skills
+Carpenters,2.B.3.l,1.37,3.5,3.5,3.75,2.38,4.795,Repairing,Skills
+Carpenters,1.A.4.a.3,1.12,3.62,3.62,4.0,2.88,4.0544,Visual Color Discrimination,Abilities
+Carpenters,4.A.2.b.6,0.6799999999999997,4.5,4.5,5.06,4.38,3.0599999999999987,"Organizing, Planning, and Prioritizing Work",Work Activities
+Carpenters,2.B.3.j,1.0,3.0,3.0,3.0,2.0,3.0,Equipment Maintenance,Skills
+Carpenters,4.A.4.b.6,0.9300000000000002,3.2,3.2,3.69,2.76,2.976000000000001,Providing Consultation and Advice to Others,Work Activities
